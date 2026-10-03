@@ -304,7 +304,7 @@ All project tasks, reported defects, and related testing activities are document
 
 ### Jira Project
 
-`JIRA_PROJECT_LINK:``(https://fatmaaldardery.atlassian.net/jira/software/projects/GB/boards/233/backlog?atlOrigin=eyJpIjoiN2ZiYjVkOTFkMjY2NDAwODg2Njk0NmJiOTExNmI5MzYiLCJwIjoiaiJ9)`
+`JIRA_PROJECT_LINK:(https://fatmaaldardery.atlassian.net/jira/software/projects/GB/boards/233/backlog?atlOrigin=eyJpIjoiN2ZiYjVkOTFkMjY2NDAwODg2Njk0NmJiOTExNmI5MzYiLCJwIjoiaiJ9)`
 
 > Jira access may require authorization.
 
